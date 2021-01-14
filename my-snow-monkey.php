@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin name: My Snow Monkey
- * Description: このプラグインに、あなたの Snow Monkey 用カスタマイズコードを書いてください。
+ * Description: HAPPY SNOW MONKEY と Snow Monkey のコラボ企画用 My Snow Monkey
  * Version: 0.2.1
  *
  * @package my-snow-monkey
- * @author inc2734
+ * @author inc2734 @Olein-jp
  * @license GPL-2.0+
  */
 
