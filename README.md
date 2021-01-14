@@ -1,2 +1,8 @@
-# hsm-wpsm-try-hooks
-HAPPY SNOW MONKEY と Snow Monkey とのコラボ企画用リポジトリ
+# HAPPY SNOW MONKEY と Snow Monkey とのコラボ企画用リポジトリ
+
+- 配信日時：2021年1月19日(火)10:00〜
+
+## 配信で取り扱うフック候補リスト
+-
+-
+-
