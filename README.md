@@ -31,3 +31,11 @@ add_filter(
 ### snow_monkey_get_template_part_{slug}
 
 テンプレートをつくらずにテンプレートの上書きをするためのフック。
+
+### Snow Monkey のアクションフック一覧
+
+https://github.com/inc2734/snow-monkey/wiki/Action-hooks
+
+### Snow Monkey のフィルターフック一覧
+
+https://github.com/inc2734/snow-monkey/wiki/Filter-hooks
